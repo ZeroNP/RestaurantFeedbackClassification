@@ -54,7 +54,7 @@
 </tr>
 </table>
 
-<b>Confusion Matrix: </b>
+<b>Confusion Matrix: </b><br>
   [[57 41] <br>
  [13 89]]
  
@@ -115,7 +115,7 @@
 </tr>
 </table>
 
-<b>Confusion Matrix: </b>
+<b>Confusion Matrix: </b><br>
  [[68 25] <br>
  [28 79]]
  
@@ -176,7 +176,7 @@
 </tr>
 </table>
 
-<b>Confusion Matrix: </b>
+<b>Confusion Matrix: </b><br>
  [[90 18] <br>
  [19 73]]
  
